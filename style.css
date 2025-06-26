@@ -83,6 +83,11 @@ body{
 .parametro-senha{
     width: 50%;
     margin: 0 auto;
+} 
+
+.parametro-senha-botoes{
+    display:flex; 
+    justify-content: center;
 }
 
 @media screen and (min-width: 768px) {
